@@ -4,6 +4,8 @@
 Name: **Benedict Greenberg**  
 Topic: **--**  
 
+For documentation on the assignment, use the [repository wiki](https://github.com/nebbles/de2-com2-indiv/wiki).
+
 ## Individual assignment brief
 
 ### Individual assignment description
