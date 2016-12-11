@@ -2,7 +2,7 @@
 **Dyson School of Design Engineering, Imperial College London**
 
 Name: **Benedict Greenberg**  
-Topic: **--**  
+Topic: **Flights to the ISS**  
 
 For documentation on the assignment, use the [repository wiki](https://github.com/nebbles/de2-com2-indiv/wiki).
 
