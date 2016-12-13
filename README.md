@@ -4,7 +4,7 @@
 Name: **Benedict Greenberg**  
 Topic: **Flights to the ISS**  
 
-For documentation on the assignment, use the [repository wiki](https://github.com/nebbles/de2-com2-indiv/wiki).
+For program documentation, use the [documentation file](documentation.md). It includes instructions on installation and use of the program.
 
 ## Individual assignment brief
 
