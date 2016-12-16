@@ -1,0 +1,96 @@
+No.,Spacecraft - ISS flight number,Country,Launch date (UTC) (yyyy mm dd),Launch time (UTC) (hh:mm:ss),"Duration (Docked) (000 days, 00 h, 00 min)",Deorbit (yyyy mm dd)
+001,Zarya - ISS-1A/R,Russia/United States,1998 11 20,06:40:00,first module of ISS,first module of ISS
+002,Zvezda - ISS-1R,Russia,2000 07 12,04:56:00,attached to ISS,attached to ISS
+003,Progress M1-3 - ISS-1P,Russia,2000 08 06,18:26:00,"084 days, 07 h, 51 min",2000 11 01
+004,Progress M1-4[4] - ISS-2P,Russia,2000 11 16,01:32:00,"013 days, 12 h, 35 min",2001 02 08
+005,Progress M1-4[4] - ISS-2P,Russia,2000 11 16,01:32:00,"044 days, 00 h, 23 min",2001 02 08
+006,Progress M-44 - ISS-3P,Russia,2001 02 26,08:09:00,"046 days, 22 h, 58 min",2001 04 16
+007,Progress M1-6 - ISS-4P,Russia,2001 05 20,22:32:00,"091 days, 05 h, 38 min",2001 08 22
+008,Progress M-45 - ISS-5P,Russia,2001 08 21,09:24:00,"091 days, 06 h, 21 min",2001 11 22
+009,Pirs - ISS-4R,Russia,2001 09 14,23:35:00,attached to ISS,attached to ISS
+010,Progress M-SO1 - ISS-4R,Russia,2001 09 14,23:35:00,"009 days, 14 h, 31 min",2001 09 26
+011,Progress M1-7 - ISS-6P,Russia,2001 11 26,18:24:00,"110 days, 22 h, 00 min",2002 03 20
+012,Progress M1-8 - ISS-7P,Russia,2002 03 21,20:13:00,"092 days, 11 h, 29 min",2002 06 25
+013,Progress M-46 - ISS-8P,Russia,2002 06 26,05:36:00,"087 days, 07 h, 36 min",2002 10 14
+014,Progress M1-9 - ISS-9P,Russia,2002 09 25,16:58:00,"124 days, 23 h, 00 min",2003 02 01
+015,Progress M-47 - ISS-10P,Russia,2003 02 02,12:59:00,"205 days, 07 h, 59 min",2003 08 28
+016,Progress M1-10 - ISS-11P,Russia,2003 06 08,10:34:00,"085 days, 08 h, 26 min",2003 10 03
+017,Progress M-48 - ISS-12P,Russia,2003 08 29,01:48:00,"150 days, 04 h, 55 min",2004 01 28
+018,Progress M1-11 - ISS-13P,Russia,2004 01 29,11:58:00,"113 days, 20 h, 06 min",2004 06 03
+019,Progress M-49 - ISS-14P,Russia,2004 05 25,12:34:00,"063 days, 16 h, 11 min",2004 07 30
+020,Progress M-50 - ISS-15P,Russia,2004 08 11,05:03:00,"130 days, 13 h, 34 min",2004 12 22
+021,Progress M-51 - ISS-16P,Russia,2004 12 23,22:19:00,"063 days, 16 h, 09 min",2005 03 09
+022,Progress M-52 - ISS-17P,Russia,2005 02 28,19:09:00,"106 days, 01 h, 05 min",2005 06 16
+023,Progress M-53 - ISS-18P,Russia,2005 06 16,23:09:00,"080 days, 05 h, 41 min",2005 09 07
+024,Progress M-54 - ISS-19P,Russia,2005 09 08,09:08:00,"173 days, 23 h, 24 min",2006 03 03
+025,Progress M-55 - ISS-20P,Russia,2005 12 21,18:38:00,"177 days, 18 h, 21 min",2006 06 19
+026,Progress M-56 - ISS-21P,Russia,2006 04 24,16:03:00,"145 days, 06 h, 47 min",2006 09 19
+027,Progress M-57 - ISS-22P,Russia,2006 06 24,15:08:00,"204 days, 07 h, 08 min",2007 01 17
+028,Progress M-58 - ISS-23P,Russia,2006 10 23,13:41:00,"152 days, 03 h, 32 min",2007 03 27
+029,Progress M-59 - ISS-24P,Russia,2007 01 18,02:12:00,"193 days, 10 h, 09 min",2007 08 01
+030,Progress M-60 - ISS-25P,Russia,2007 05 12,03:25:00,"126 days, 19 h, 27 min",2007 09 25
+031,Progress M-61 - ISS-26P,Russia,2007 08 02,17:34:00,"138 days, 09 h, 20 min",2008 01 22
+032,Progress M-62 - ISS-27P,Russia,2007 12 23,07:12:00,"040 days, 02 h, 18 min",2008 02 15
+033,Progress M-63 - ISS-28P,Russia,2008 02 05,13:02:00,"059 days, 18 h, 19 min",2008 04 07
+034,Jules Verne - ATV-1,European Union,2008 03 09,04:03:00,"155 days, 06 h, 44 min",2008 09 29
+035,Progress M-64 - ISS-29P,Russia,2008 05 14,20:22:00,"107 days, 22 h, 08 min",2008 09 08
+036,Progress M-65 - ISS-30P,Russia,2008 09 10,19:50:00,"057 days, 21 h, 36 min",2008 12 07
+037,Progress M-01M - ISS-31P,Russia,2008 11 26,12:38:00,"067 days, 15 h, 42 min",2009 02 08
+038,Progress M-66 - ISS-32P,Russia,2009 02 10,05:49:46,"082 days, 07 h, 59 min",2009 05 18
+039,Progress M-02M - ISS-33P,Russia,2009 05 07,18:37:09,"053 days, 23 h, 52 min",2009 07 13
+040,Progress M-67 - ISS-34P,Russia,2009 07 24,10:56:53,"053 days, 20 h, 13 min",2009 09 27
+041,HTV-1,Japan,2009 09 10,17:01:56,"042 days, 17 h, 06 min",2009 11 01
+042,Progress M-03M - ISS-35P,Russia,2009 10 15,01:14:37,"186 days, 14 h, 52 min",2010 04 27
+043,Poisk - ISS-5R,Russia,2009 11 10,14:22:04,attached to ISS,attached to ISS
+044,Progress M-MIM2 - ISS-5R,Russia,2009 11 10,14:22:04,"025 days, 08 h, 32 min",2009 12 08
+045,Progress M-04M - ISS-36P,Russia,2010 02 03,03:45:31,"094 days, 06 h, 50 min",2010 07 01
+046,Progress M-05M - ISS-37P,Russia,2010 04 28,17:15:09,"176 days, 19 h, 50 min",2010 11 15
+047,Progress M-06M - ISS-38P,Russia,2010 06 30,15:35:15,"057 days, 19 h, 04 min",2010 09 06
+048,Progress M-07M - ISS-39P,Russia,2010 09 10,10:22:58,"161 days, 01 h, 15 min",2011 02 20
+049,Progress M-08M - ISS-40P,Russia,2010 10 27,15:11:50,"085 days, 08 h, 06 min",2011 01 24
+050,Kounotori 2 - HTV-2,Japan,2011 01 22,05:37:57,"059 days, 22 h, 52 min",2011 03 30
+051,Progress M-09M - ISS-41P,Russia,2011 01 28,01:31:39,"082 days, 09 h, 02 min",2011 04 26
+052,Johannes Kepler - ATV-2,European Union,2011 02 16,21:50:55,"115 days, 22 h, 47 min",2011 06 21
+053,Progress M-10M - ISS-42P,Russia,2011 04 27,13:05:22,"182 days, 18 h, 36 min",2011 10 29
+054,Progress M-11M - ISS-43P,Russia,2011 06 21,14:38:15,"060 days, 17 h, 00 min",2011 09 01
+055,Progress M-13M - ISS-45P,Russia,2011 10 30,10:11:13,"082 days, 10 h, 28 min",2012 01 25
+056,Progress M-14M - ISS-46P,Russia,2012 01 25,23:06:40,"082 days, 10 h, 55 min",2012 04 28
+057,Edoardo Amaldi - ATV-3,European Union,2012 03 23,04:34:04,"183 days, 23 h, 13 min",2012 10 03
+058,Progress M-15M - ISS-47P,Russia,2012 04 20,12:50:24,"091 days, 05 h, 50 min",2012 08 20
+059,Progress M-15M - ISS-47P,Russia,2012 04 20,12:50:24,"001 days, 20 h, 18 min",2012 08 20
+060,Dragon C2+ - CRS SpX-D,United States,2012 05 22,07:44:38,"005 days, 16 h, 05 min",2012 05 31
+061,Kounotori 3 - HTV-3,Japan,2012 07 21,02:06:18,"046 days, 21 h, 16 min",2012 09 14
+062,Progress M-16M - ISS-48P,Russia,2012 08 01,19:35:13,"191 days, 11 h, 57 min",2013 02 09
+063,SpaceX CRS-1 - CRS SpX-1,United States,2012 10 07,00:35:00,"017 days, 22 h, 16 min",2012 10 28
+064,Progress M-17M - ISS-49P,Russia,2012 10 31,07:41:19,"165 days, 22 h, 29 min",2013 04 21
+065,Progress M-18M - ISS-50P,Russia,2013 02 11,14:41:46,"164 days, 00 h, 08 min",2013 07 26
+066,SpaceX CRS-2[73] - CRS SpX-2,United States,2013 03 01,15:10:13,"022 days, 18 h, 14 min",2013 03 26
+067,Progress M-19M - ISS-51P,Russia,2013 04 24,10:12:16,"046 days, 01 h, 33 min",2013 06 19
+068,Albert Einstein - ATV-4,European Union,2013 06 05,21:52:11,"134 days, 18 h, 48 min",2013 11 02
+069,Progress M-20M - ISS-52P,Russia,2013 07 27,20:45:08,"190 days, 13 h, 55 min",2014 02 11
+070,Kounotori 4 - HTV-4,Japan,2013 08 03,19:48:46,"025 days, 20 h, 29 min",2013 09 07
+071,Cygnus Orb-D1 - CRS Orb-D,United States,2013 09 18,14:58:02,"022 days, 21 h, 20 min",2013 10 23
+072,Progress M-21M - ISS-53P,Russia,2013 11 25,20:53:06,"144 days, 10 h, 28 min",2014 06 09
+073,Progress M-21M - ISS-53P,Russia,2013 11 25,20:53:06,"046 days, 01 h, 16 min",2014 06 09
+074,Cygnus CRS Orb-1 - CRS Orb-1,United States,2014 01 09,18:07:05,"036 days, 21 h, 20 min",2014 02 19
+075,Progress M-22M - ISS-54P,Russia,2014 02 05,16:23:32,"060 days, 15 h, 36 min",2014 04 18
+076,Progress M-23M - ISS-55P,Russia,2014 04 09,15:26:27,"103 days, 00 h, 30 min",2014 07 31
+077,SpaceX CRS-3 - CRS SpX-3,United States,2014 04 18,19:25:22,"027 days, 21 h, 49 min",2014 05 18
+078,Cygnus CRS Orb-2 - CRS Orb-2,United States,2014 07 13,16:52:14,"029 days, 20 h, 21 min",2014 08 17
+079,Progress M-24M - ISS-56P,Russia,2014 07 23,21:44:44,"095 days, 02 h, 07 min",2014 11 19
+080,Georges Lematre - ATV-5,European Union,2014 07 29,23:47:38,"186 days, 00 h, 12 min",2015 02 15
+081,SpaceX CRS-4 - CRS SpX-4,United States,2014 09 21,05:52:03,"031 days, 22 h, 41 min",2014 10 25
+082,Progress M-25M - ISS-57P,Russia,2014 10 29,07:09:43,"177 days, 17 h, 33 min",2015 04 26
+083,SpaceX CRS-5 - CRS SpX-5,United States,2015 01 10,09:47:10,"029 days, 03 h, 17 min",2015 02 11
+084,Progress M-26M - ISS-58P,Russia,2015 02 17,11:00:17,"177 days, 17 h, 22 min",2015 08 14
+085,SpaceX CRS-6 - CRS SpX-6,United States,2015 04 14,20:10:41,"033 days, 20 h, 00 min",2015 05 21
+086,Progress M-28M - ISS-60P,Russia,2015 07 03,04:55:48,"151 days, 00 h, 24 min",2015 12 19
+087,Kounotori 5 - HTV-5,Japan,2015 08 19,11:50:49,"034 days, 23 h, 25 min",2015 09 28
+088,Progress M-29M - ISS-61P,Russia,2015 10 01,16:49:48,"171 days, 15 h, 20 min",2016 04 08
+089,Cygnus CRS OA-4 - CRS OA-4,United States,2015 12 06,21:44:57,"071 days, 22 h, 11 min",2016 02 20
+090,Progress MS-01 - ISS-62P,Russia,2015 12 21,08:44:39,"192 days, 17 h, 21 min",2016 07 03
+091,Cygnus CRS OA-6 - CRS OA-6,United States,2016 03 22,03:05:52,"079 days, 20 h, 51 min",2016 06 22
+092,Progress MS-02 - ISS-63P,Russia,2016 03 31,16:23:58,"194 days, 15 h, 39 min",2016 10 14
+093,SpaceX CRS-8 - CRS SpX-8,United States,2016 04 08,20:43:00,"030 days, 23 h, 22 min",2016 05 11
+094,SpaceX CRS-9 - CRS SpX-9,United States,2016 07 18,04:45:29,"036 days, 20 h, 26 min",2016 08 26
+095,Cygnus CRS OA-5 - CRS OA-5,United States,2016 10 17,23:45:40,"029 days, 01 h, 07 min",2016 11 28
