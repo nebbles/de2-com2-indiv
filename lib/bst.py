@@ -1,3 +1,5 @@
+# This file contains the BST classes and functions
+
 class TreeNode:
     def __init__(self, key, val, left=None, right=None, parent=None):
         self.key = key
@@ -29,6 +31,13 @@ class TreeNode:
 
     def hasBothChildren(self):
         return self.rightChild and self.leftChild
+
+    def inorder(self, inorderlist):
+        if self.leftChild:
+            self.leftChild.inorder(inorderlist)
+        inorderlist.append(self.payload)
+        if self.rightChild:
+            self.rightChild.inorder(inorderlist)
 
     def replaceNodeData(self, key, value, lc, rc):
         self.key = key
@@ -71,6 +80,7 @@ class BinarySearchTree:
                 self._put(key, val, currentNode.rightChild)
             else:
                 currentNode.rightChild = TreeNode(key, val, parent=currentNode)
+        self.size += 1
 
     def __setitem__(self, k, v):
         self.put(k, v)
@@ -159,13 +169,39 @@ class BinarySearchTree:
         current = self.root
         while current.hasLeftChild():
             current = current.leftChild
-        return current
+        return current.payload
 
     def findMax(self):
         current = self.root
         while current.hasRightChild():
             current = current.rightChild
-        return current
+        return current.payload
+
+    def inorder(self):  # do an inorder traversal to traverse the list from min to max and return list
+        inorderlist = []
+        self.root.inorder(inorderlist)
+        return inorderlist
+
+    def interval(self, min_key, max_key):
+        node = self.root
+        keys = []
+        if min_key <= node.key <= max_key:
+            if node.leftChild and node.key != min_key:
+                keys += interval(node.leftChild, min_key, max_key)
+            keys.append(node.key)
+            if node.rightChild and node.key != max_key:
+                keys += interval(node.rightChild, min_key, max_key)
+        elif node.key < min_key:
+            if node.rightChild:
+                keys += interval(node.rightChild, min_key, max_key)
+        else:  # node.key > max_key
+            if node.leftChild:
+                keys += interval(node.leftChild, min_key, max_key)
+
+        interval_data = []
+        for key in keys:
+            interval_data.append(self.get(key))
+        return interval_data
 
     def remove(self, currentNode):
         if currentNode.isLeaf():  # leaf
